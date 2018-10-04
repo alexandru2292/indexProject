@@ -6,3 +6,4 @@ Add new line. 12312
 
 My names is Alexandru
 123456
+Merge -1 
