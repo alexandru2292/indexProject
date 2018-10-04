@@ -1,6 +1,10 @@
 
 Hello DevFile
 Hello frist change
+<<<<<<< HEAD
 
 Hello DevFile my change
 
+=======
+123
+>>>>>>> Commit - 3
